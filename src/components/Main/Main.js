@@ -1,14 +1,20 @@
 import Projects from '../Projects/Projects';
+import Skills from '../Skills/Skills';
 
 function Main() {
   return (
     <div className="Main">
-      <div className="about">ABOUT WOO-SIK</div>
-      <div className="skills">SKILLS</div>
-      {/* <div className="projects">PROJECTS</div> */}
+      <div className="about">
+        <h2>ABOUT WOO-SIK</h2>
+      </div>
+      <Skills />
       <Projects />
-      <div className="resume">RESUME</div>
-      <div className="contact">CONTACT</div>
+      <div className="resume">
+        <h2>RESUME</h2>
+      </div>
+      <div className="contact">
+        <h2>CONTACT</h2>
+      </div>
     </div>
   );
 }
