@@ -1,0 +1,16 @@
+.navbar ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar li {
+  display: flex;
+  list-style-type: none;
+  width: 8vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar a {
+  text-decoration: none;
+}
