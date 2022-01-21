@@ -7,7 +7,14 @@ function Main() {
     <div className="main">
       <div className="about" id="about">
         <h2>ABOUT WOO-SIK</h2>
-        <p>This is my story</p>
+        <p>
+          I am a <span>SOFTWARE DEVELOPER</span> with a background in{' '}
+          <span>STEM</span> education and cancer related research, as well as{' '}
+          <span>ARMY NURSING</span>. I am currently located in{' '}
+          <span>AUSTIN, TX</span>. I am a critical thinker and like to pay
+          attention to details. I play the violin and love cooking, running,
+          swimming, biking, and skiing. I also enjoy building and fixing stuff.
+        </p>
       </div>
       <Skills />
       <Projects />

@@ -1,7 +1,8 @@
 * {
-  border: solid 1px black;
-  padding: 1%;
+  /* border: solid 0.1px black; */
+  /* padding: 1%; */
   font-size: calc(9px + 1vmin);
+  scroll-behavior: smooth;
 }
 
 #root {
@@ -11,17 +12,31 @@
 
 .App {
   width: clamp(350px, 99%, 1200px);
-  border: 5px solid brown;
+  border: 5px solid #333;
 }
 
+.header p,
+.main p {
+  padding: 1%;
+}
+
+/* Global */
 h1 {
   font-size: calc(12px + 3vmin);
+  padding: 1%;
 }
 
 h2 {
   font-size: calc(10px + 2vmin);
+  padding: 1%;
 }
 
 h3 {
   font-size: calc(9px + 1.5vmin);
+  padding: 1%;
+}
+span {
+  font-weight: bolder;
+  font-style: italic;
+  padding: 0;
 }
