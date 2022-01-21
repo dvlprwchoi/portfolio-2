@@ -1,5 +1,21 @@
 .skills-container {
   display: flex;
+  flex-wrap: wrap;
+}
+
+.single-skills-container {
+  margin: 0.5%;
+  flex: 1 1 150px;
+  border: 5px solid cadetblue;
+}
+
+.container-title {
+  text-align: center;
+}
+
+.single-skills-container-ul {
+  background-color: cornsilk;
+  text-align: center;
 }
 
 li {
