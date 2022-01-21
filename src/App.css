@@ -1,4 +1,27 @@
 * {
   border: solid 1px black;
   padding: 1%;
+  font-size: calc(9px + 1vmin);
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  width: clamp(350px, 99%, 1200px);
+  border: 5px solid brown;
+}
+
+h1 {
+  font-size: calc(12px + 3vmin);
+}
+
+h2 {
+  font-size: calc(10px + 2vmin);
+}
+
+h3 {
+  font-size: calc(9px + 1.5vmin);
 }
