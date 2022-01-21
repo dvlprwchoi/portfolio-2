@@ -8,19 +8,19 @@ function Navbar() {
           <a href="#">HOME</a>
         </li>
         <li>
-          <a href="#">ABOUT</a>
+          <a href="#about">ABOUT</a>
         </li>
         <li>
-          <a href="#">SKILLS</a>
+          <a href="#skills">SKILLS</a>
         </li>
         <li>
-          <a href="#">PROJECTS</a>
+          <a href="#projects">PROJECTS</a>
         </li>
         <li>
-          <a href="#">RESUME</a>
+          <a href="#resume">RESUME</a>
         </li>
         <li>
-          <a href="#">CONTACT</a>
+          <a href="#contact">CONTACT</a>
         </li>
         <button>theme</button>
       </ul>
