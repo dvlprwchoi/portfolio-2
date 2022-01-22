@@ -56,7 +56,7 @@ function Projects() {
             <br />
             &nbsp;
             <br />
-            Technologies used:
+            Technologies used:{' '}
             <span>HTML, CSS, JavaScript, ReactJS, and 3rd party API</span>.
           </p>
         </div>
@@ -98,7 +98,7 @@ function Projects() {
             <br />
             &nbsp;
             <br />
-            Technologies used:
+            Technologies used:{' '}
             <span>HTML, CSS, JavaScript, ReactJS, and 3rd party API</span>.
           </p>
         </div>
@@ -134,8 +134,7 @@ function Projects() {
             <br />
             &nbsp;
             <br />
-            Technologies used:
-            <span>HTML, CSS, and JavaScript</span>.
+            Technologies used: <span>HTML, CSS, and JavaScript</span>.
           </p>
         </div>
         {/*  */}
@@ -185,7 +184,7 @@ function Projects() {
               height="auto"
             />
           </a>
-          <div>
+          <div className="two-git-repos">
             <a
               href="https://github.com/dvlprwchoi/coffeeholic-frontend"
               target="_blank"
@@ -218,7 +217,7 @@ function Projects() {
             <br />
             &nbsp;
             <br />
-            Technologies used:
+            Technologies used:{' '}
             <span>
               HTML, CSS, JavaScript, ReactJS, Python, Django, and PostgreSQL
             </span>
@@ -254,8 +253,7 @@ function Projects() {
             <br />
             &nbsp;
             <br />
-            Technologies used:
-            <span>HTML, CSS, and JavaScript</span>.
+            Technologies used: <span>HTML, CSS, and JavaScript</span>.
           </p>
         </div>
         {/*  */}
@@ -288,7 +286,7 @@ function Projects() {
             <br />
             &nbsp;
             <br />
-            Technologies used:
+            Technologies used:{' '}
             <span>HTML, CSS, JavaScript, ReactJS, Mongoose, and MongoDB</span>.
           </p>
         </div>

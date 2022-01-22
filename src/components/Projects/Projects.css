@@ -24,3 +24,9 @@
   justify-content: center;
   align-items: center;
 }
+
+.two-git-repos {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
