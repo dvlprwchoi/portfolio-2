@@ -3,10 +3,10 @@ import weatherDashboardScreenshot from '../../img/weather-dashboard-img-20211219
 import covidNumbersScreenshot from '../../img/covid-19-numbers-img-20211223.png';
 import tictactoeScreenshot from '../../img/tictactoe-img-20211209.png';
 import tdlScreenshot from '../../img/tdl-img-20211206.png';
-import coffeeholicScreenshot from '../../img/coffeeholic-img-20210811.png';
-import jsCalculatorScreenshot from '../../img/js-calculator-img-20210728.png';
-import gitnomsScreenshot from '../../img/gitnoms-img-20210725.png';
-import miniOmokScreenshot from '../../img/mini-omok-img-20210710.png';
+import coffeeholicScreenshot from '../../img/coffeeholic-img-20220122.png';
+import jsCalculatorScreenshot from '../../img/js-calculator-img-20220122.png';
+import gitnomsScreenshot from '../../img/gitnoms-img-20220122.png';
+import miniOmokScreenshot from '../../img/mini-omok-img-20220122.png';
 
 function Projects() {
   return (
