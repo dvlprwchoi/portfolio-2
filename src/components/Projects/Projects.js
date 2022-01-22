@@ -1,4 +1,12 @@
 import './Projects.css';
+import weatherDashboardScreenshot from '../../img/weather-dashboard-img-20211219.png';
+import covidNumbersScreenshot from '../../img/covid-19-numbers-img-20211223.png';
+import tictactoeScreenshot from '../../img/tictactoe-img-20211209.png';
+import tdlScreenshot from '../../img/tdl-img-20211206.png';
+import coffeeholicScreenshot from '../../img/coffeeholic-img-20210811.png';
+import jsCalculatorScreenshot from '../../img/js-calculator-img-20210728.png';
+import gitnomsScreenshot from '../../img/gitnoms-img-20210725.png';
+import miniOmokScreenshot from '../../img/mini-omok-img-20210710.png';
 
 function Projects() {
   return (
@@ -19,7 +27,7 @@ function Projects() {
           >
             <img
               className="screenshot"
-              src="src/img/weather-dashboard-img-20211219.png"
+              src={weatherDashboardScreenshot}
               alt="Weather Dashboard Screenshot"
               width="100%"
               height="auto"
@@ -63,7 +71,7 @@ function Projects() {
           >
             <img
               className="screenshot"
-              src="src/img/covid-19-numbers-img-20211223.png"
+              src={covidNumbersScreenshot}
               alt="Covid-19 Numbers App Screenshot"
               width="100%"
               height="auto"
@@ -102,7 +110,7 @@ function Projects() {
           <a href="https://dvlprwchoi.github.io/tictactoe" target="_blank">
             <img
               className="screenshot"
-              src="src/img/tictactoe-img-20211209.png"
+              src={tictactoeScreenshot}
               alt="Tictactoe Screenshot"
               width="100%"
               height="auto"
@@ -138,7 +146,7 @@ function Projects() {
           <a href="https://woosik-tdl.netlify.app" target="_blank">
             <img
               className="screenshot"
-              src="src/img/tdl-img-20211206.png"
+              src={tdlScreenshot}
               alt="Todo List App Screenshot"
               width="100%"
               height="auto"
@@ -171,36 +179,38 @@ function Projects() {
           <a href="https://woosik-coffeeholic.netlify.app/" target="_blank">
             <img
               className="screenshot"
-              src="src/img/coffeeholic-img-20210811.png"
+              src={coffeeholicScreenshot}
               alt="Coffeeholic Screenshot"
               width="100%"
               height="auto"
             />
           </a>
-          <a
-            href="https://github.com/dvlprwchoi/coffeeholic-frontend"
-            target="_blank"
-          >
-            <img
-              className="git-repo-icon"
-              src="img/project-4-img-20210811.png"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
-          <a
-            href="https://github.com/dvlprwchoi/coffeeholic-backend"
-            target="_blank"
-          >
-            <img
-              className="git-repo-icon"
-              src="#"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
+          <div>
+            <a
+              href="https://github.com/dvlprwchoi/coffeeholic-frontend"
+              target="_blank"
+            >
+              <img
+                className="git-repo-icon"
+                src="#"
+                alt="GitHub Repository"
+                width="20px"
+                height="auto"
+              />
+            </a>
+            <a
+              href="https://github.com/dvlprwchoi/coffeeholic-backend"
+              target="_blank"
+            >
+              <img
+                className="git-repo-icon"
+                src="#"
+                alt="GitHub Repository"
+                width="20px"
+                height="auto"
+              />
+            </a>
+          </div>
           <p>
             The <span>Coffeeholic</span> is an online memo application for your
             favorite coffee shops. This is a full-stack application with CRUD
@@ -223,7 +233,7 @@ function Projects() {
           <a href="https://dvlprwchoi.github.io/js-calculator" target="_blank">
             <img
               className="screenshot"
-              src="src/img/js-calculator-img-20210728.png"
+              src={jsCalculatorScreenshot}
               alt="JavaScript Calculator Screenshot"
               width="100%"
               height="auto"
@@ -256,7 +266,7 @@ function Projects() {
           <a href="https://gitnoms.netlify.app/" target="_blank">
             <img
               className="screenshot"
-              src="src/img/gitnoms-img-20210725.png"
+              src={gitnomsScreenshot}
               alt="Gitnoms App Screenshot"
               width="100%"
               height="auto"
@@ -290,7 +300,7 @@ function Projects() {
           <a href="https://dvlprwchoi.github.io/omok-game/" target="_blank">
             <img
               className="screenshot"
-              src="src/img/mini-omok-img-20210710.png"
+              src={miniOmokScreenshot}
               alt="Mini Omok Screenshot"
               width="100%"
               height="auto"
