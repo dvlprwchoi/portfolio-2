@@ -1,12 +1,20 @@
 import Contact from '../Contact/Contact';
 import Projects from '../Projects/Projects';
 import Skills from '../Skills/Skills';
+import profilePicture from '../../img/profile-picture-160x160.jpg';
 
 function Main() {
   return (
     <div className="main">
       <div className="about" id="about">
         <h2>ABOUT WOO-SIK</h2>
+        <img
+          className="profile-picture"
+          src={profilePicture}
+          alt="Woo-Sik Choi Profile Picture"
+          width="25%"
+          height="auto"
+        />
         <p>
           I am a <span>SOFTWARE DEVELOPER</span> with a background in{' '}
           <span>STEM</span> education and cancer related research, as well as{' '}
