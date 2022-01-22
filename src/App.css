@@ -1,6 +1,6 @@
 * {
   /* border: solid 0.1px black; */
-  /* padding: 1%; */
+  padding: 1%;
   font-size: calc(9px + 1vmin);
   scroll-behavior: smooth;
 }
@@ -13,6 +13,7 @@
 .App {
   width: clamp(350px, 99%, 1200px);
   border: 5px solid #333;
+  padding: 0;
 }
 
 .header p,
