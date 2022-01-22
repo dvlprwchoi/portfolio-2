@@ -8,13 +8,15 @@ function Main() {
     <div className="main">
       <div className="about" id="about">
         <h2>ABOUT WOO-SIK</h2>
-        <img
-          className="profile-picture"
-          src={profilePicture}
-          alt="Woo-Sik Choi Profile Picture"
-          width="25%"
-          height="auto"
-        />
+        <div className="profile-picture-div">
+          <img
+            className="profile-picture"
+            src={profilePicture}
+            alt="Woo-Sik Choi Profile Picture"
+            width="25%"
+            height="auto"
+          />
+        </div>
         <p>
           I am a <span>SOFTWARE DEVELOPER</span> with a background in{' '}
           <span>STEM</span> education and cancer related research, as well as{' '}

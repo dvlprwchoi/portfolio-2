@@ -21,6 +21,11 @@
   padding: 1%;
 }
 
+.profile-picture-div {
+  display: flex;
+  justify-content: center;
+}
+
 /* Global */
 h1 {
   font-size: calc(12px + 3vmin);
