@@ -20,7 +20,15 @@ function Main() {
       <Projects />
       <div className="resume" id="resume">
         <h2>RESUME</h2>
-        <p>Here is a link to my resume</p>
+        <p>
+          <a
+            href="https://drive.google.com/file/d/1OUYnIQoEs8iinhzO_sTwx7YZUc3vxgJ-/view?usp=sharing"
+            target="_blank"
+          >
+            Here
+          </a>{' '}
+          is a link to my resume.
+        </p>
       </div>
       <Contact />
     </div>
