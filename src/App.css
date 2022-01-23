@@ -3,6 +3,7 @@
   padding: 1%;
   font-size: calc(9px + 1vmin);
   scroll-behavior: smooth;
+  font-family: 'Source Code Pro', monospace;
 }
 
 html,
@@ -22,6 +23,11 @@ body,
   background-color: var(--background-color);
   border: 5px solid var(--border-color);
   padding: 0;
+}
+
+.header h1,
+.header p {
+  font-family: 'Press Start 2P', cursive;
 }
 
 .header p,
