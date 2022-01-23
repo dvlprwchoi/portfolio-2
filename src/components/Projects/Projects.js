@@ -7,6 +7,7 @@ import coffeeholicScreenshot from '../../img/coffeeholic-img-20220122.png';
 import jsCalculatorScreenshot from '../../img/js-calculator-img-20220122.png';
 import gitnomsScreenshot from '../../img/gitnoms-img-20220122.png';
 import miniOmokScreenshot from '../../img/mini-omok-img-20220122.png';
+import githubIcon from '../../img/github-icon.png';
 
 function Projects() {
   return (
@@ -29,22 +30,24 @@ function Projects() {
               className="screenshot"
               src={weatherDashboardScreenshot}
               alt="Weather Dashboard Screenshot"
-              width="100%"
+              width="97%"
               height="auto"
             />
           </a>
-          <a
-            href="https://github.com/dvlprwchoi/weather-dashboard"
-            target="_blank"
-          >
-            <img
-              className="git-repo-icon"
-              src="#"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
+          <div className="one-git-repo">
+            <a
+              href="https://github.com/dvlprwchoi/weather-dashboard"
+              target="_blank"
+            >
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a>
+          </div>
           <p>
             The <span>Weather Dashboard</span> is a single page web application
             built with ReactJS and 3rd party weather API. A user can get weather
@@ -73,22 +76,24 @@ function Projects() {
               className="screenshot"
               src={covidNumbersScreenshot}
               alt="Covid-19 Numbers App Screenshot"
-              width="100%"
+              width="97%"
               height="auto"
             />
           </a>
-          <a
-            href="https://github.com/dvlprwchoi/covid-19-numbers"
-            target="_blank"
-          >
-            <img
-              className="git-repo-icon"
-              src="#"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
+          <div className="one-git-repo">
+            <a
+              href="https://github.com/dvlprwchoi/covid-19-numbers"
+              target="_blank"
+            >
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a>
+          </div>
           <p>
             The <span>COVID-19 Numbers App</span> is a single page web
             application built with ReactJS and 3rd party COVID-19 API. This app
@@ -112,19 +117,21 @@ function Projects() {
               className="screenshot"
               src={tictactoeScreenshot}
               alt="Tictactoe Screenshot"
-              width="100%"
+              width="97%"
               height="auto"
             />
           </a>
-          <a href="https://github.com/dvlprwchoi/tictactoe" target="_blank">
-            <img
-              className="git-repo-icon"
-              src="#"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
+          <div className="one-git-repo">
+            <a href="https://github.com/dvlprwchoi/tictactoe" target="_blank">
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a>
+          </div>
           <p>
             The <span>Tic Tac Toe</span> game is built with JavaScript. This
             application has a mobile responsive design depends on a device's
@@ -147,19 +154,21 @@ function Projects() {
               className="screenshot"
               src={tdlScreenshot}
               alt="Todo List App Screenshot"
-              width="100%"
+              width="97%"
               height="auto"
             />
           </a>
-          <a href="https://github.com/dvlprwchoi/tdl" target="_blank">
-            <img
-              className="git-repo-icon"
-              src="#"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
+          <div className="one-git-repo">
+            <a href="https://github.com/dvlprwchoi/tdl" target="_blank">
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a>
+          </div>
           <p>
             The <span>Todo List App</span> is a simple task management web
             application built with ReactJS. A user can add and remove to-do from
@@ -180,7 +189,7 @@ function Projects() {
               className="screenshot"
               src={coffeeholicScreenshot}
               alt="Coffeeholic Screenshot"
-              width="100%"
+              width="97%"
               height="auto"
             />
           </a>
@@ -191,9 +200,9 @@ function Projects() {
             >
               <img
                 className="git-repo-icon"
-                src="#"
+                src={githubIcon}
                 alt="GitHub Repository"
-                width="20px"
+                width="25vw"
                 height="auto"
               />
             </a>
@@ -203,9 +212,9 @@ function Projects() {
             >
               <img
                 className="git-repo-icon"
-                src="#"
+                src={githubIcon}
                 alt="GitHub Repository"
-                width="20px"
+                width="25vw"
                 height="auto"
               />
             </a>
@@ -234,19 +243,24 @@ function Projects() {
               className="screenshot"
               src={jsCalculatorScreenshot}
               alt="JavaScript Calculator Screenshot"
-              width="100%"
+              width="97%"
               height="auto"
             />
           </a>
-          <a href="https://github.com/dvlprwchoi/js-calculator" target="_blank">
-            <img
-              className="git-repo-icon"
-              src="#"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
+          <div className="one-git-repo">
+            <a
+              href="https://github.com/dvlprwchoi/js-calculator"
+              target="_blank"
+            >
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a>
+          </div>
           <p>
             The <span>JavaScript Calculator</span> is a calculator with basic
             functionality.
@@ -266,19 +280,21 @@ function Projects() {
               className="screenshot"
               src={gitnomsScreenshot}
               alt="Gitnoms App Screenshot"
-              width="100%"
+              width="97%"
               height="auto"
             />
           </a>
-          <a href="https://github.com/TheCodingChefs" target="_blank">
-            <img
-              className="git-repo-icon"
-              src="#"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
+          <div className="one-git-repo">
+            <a href="https://github.com/TheCodingChefs" target="_blank">
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a>
+          </div>
           <p>
             The <span>gitNoms</span> is an online recipe application. Users can
             easily upload, edit, or delete their own receipes. This full-stack
@@ -300,19 +316,21 @@ function Projects() {
               className="screenshot"
               src={miniOmokScreenshot}
               alt="Mini Omok Screenshot"
-              width="100%"
+              width="97%"
               height="auto"
             />
           </a>
-          <a href="https://github.com/dvlprwchoi/omok-game" target="_blank">
-            <img
-              className="git-repo-icon"
-              src="#"
-              alt="GitHub Repository"
-              width="20px"
-              height="auto"
-            />
-          </a>
+          <div className="one-git-repo">
+            <a href="https://github.com/dvlprwchoi/omok-game" target="_blank">
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a>
+          </div>
           <p>
             The <span>MINI OMOK</span> is a simplified version of a Korean game
             called Omok. To win the game, connect 5 stones with same color in

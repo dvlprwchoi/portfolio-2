@@ -20,6 +20,10 @@
 }
 
 .single-project-container a {
+  display: contents;
+}
+
+.one-git-repo {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,5 +32,6 @@
 .two-git-repos {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 5%;
 }
