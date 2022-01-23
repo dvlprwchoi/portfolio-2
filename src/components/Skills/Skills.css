@@ -6,7 +6,7 @@
 .single-skills-container {
   margin: 0.5%;
   flex: 1 1 150px;
-  border: 3px solid cadetblue;
+  border: 3px solid var(--cardBorder-color);
 }
 
 .container-title {
@@ -14,10 +14,11 @@
 }
 
 .single-skills-container-ul {
-  background-color: cornsilk;
+  background-color: var(--cardBackground-color);
   text-align: center;
 }
 
 li {
   list-style-type: none;
+  color: var(--navbar-background-color);
 }

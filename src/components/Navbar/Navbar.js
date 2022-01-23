@@ -1,4 +1,5 @@
 import './Navbar.css';
+import darkmodeIcon from '../../img/darkmode-icon-128.png';
 
 function Navbar() {
   return (
@@ -22,7 +23,13 @@ function Navbar() {
         <li>
           <a href="#contact">CONTACT</a>
         </li>
-        <button>theme</button>
+        <button className="darkmode-button">
+          <img
+            className="darkmode-icon"
+            src={darkmodeIcon}
+            alt="Darkmode Icon"
+          />
+        </button>
       </ul>
     </div>
   );

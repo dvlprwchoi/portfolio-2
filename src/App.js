@@ -5,7 +5,7 @@ import Footer from './components/Footer/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" theme="light">
       <div className="header">
         <h1>Hello!</h1>
         <p>My name is Woo-Sik Choi</p>

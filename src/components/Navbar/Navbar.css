@@ -1,5 +1,5 @@
 .navbar {
-  background-color: #333;
+  background-color: var(--navbar-background-color);
   padding: 0;
   position: -webkit-sticky;
   position: sticky;
@@ -20,10 +20,25 @@
   /* width: 8vw; */
   justify-content: center;
   align-items: center;
+  /* padding: 0.5%;
+  margin: 0.8%; */
 }
 
 .navbar a {
   text-decoration: none;
-  color: #f2f2f2;
+  color: var(--navbarA-color);
   font-size: calc(9px + 0.4vmin);
+}
+
+.darkmode-button {
+  display: contents;
+  cursor: pointer;
+}
+
+.darkmode-icon {
+  width: 2%;
+  background-color: var(--dark-mode-button-background-color);
+  border-radius: 35%;
+  padding: 0.5%;
+  margin: 0.8%;
 }
