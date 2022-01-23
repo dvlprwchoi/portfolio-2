@@ -1,7 +1,7 @@
 import './Navbar.css';
 import darkmodeIcon from '../../img/darkmode-icon-128.png';
 
-function Navbar() {
+function Navbar({ _changeTheme }) {
   return (
     <div className="navbar">
       <ul>
@@ -23,7 +23,7 @@ function Navbar() {
         <li>
           <a href="#contact">CONTACT</a>
         </li>
-        <button className="darkmode-button">
+        <button onClick={_changeTheme} className="darkmode-button">
           <img
             className="darkmode-icon"
             src={darkmodeIcon}
