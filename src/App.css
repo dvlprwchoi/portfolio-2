@@ -31,6 +31,12 @@
   scroll-behavior: smooth;
 }
 
+html,
+body,
+#root {
+  padding: 0;
+}
+
 #root {
   display: flex;
   justify-content: center;
