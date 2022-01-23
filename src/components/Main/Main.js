@@ -2,6 +2,7 @@ import Contact from '../Contact/Contact';
 import Projects from '../Projects/Projects';
 import Skills from '../Skills/Skills';
 import profilePicture from '../../img/profile-picture-160x160.jpg';
+import resumeIcon from '../../img/resume-icon.png';
 
 function Main() {
   return (
@@ -30,14 +31,19 @@ function Main() {
       <Projects />
       <div className="resume" id="resume">
         <h2>RESUME</h2>
-        <p>
+        <p className="resume-icon-container">
           <a
             href="https://drive.google.com/file/d/1OUYnIQoEs8iinhzO_sTwx7YZUc3vxgJ-/view?usp=sharing"
             target="_blank"
           >
-            Here
-          </a>{' '}
-          is a link to my resume.
+            <img
+              className="resume-icon icon"
+              src={resumeIcon}
+              alt="Resume Icon"
+              width="5%"
+              height="auto"
+            />
+          </a>
         </p>
       </div>
       <Contact />
