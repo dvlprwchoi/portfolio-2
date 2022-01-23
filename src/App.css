@@ -26,6 +26,16 @@
   justify-content: center;
 }
 
+.resume-icon-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 10%;
+}
+
+.resume-icon-container a {
+  display: contents;
+}
+
 /* Global */
 h1 {
   font-size: calc(12px + 3vmin);
