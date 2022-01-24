@@ -30,6 +30,16 @@ body,
   font-family: 'Press Start 2P', cursive;
 }
 
+.header h1 {
+  font-size: calc(10px + 5vmin);
+  padding-left: 2%;
+}
+
+.header p {
+  font-size: calc(10px + 2vmin);
+  text-align: right;
+}
+
 .header p,
 .main p {
   padding: 1%;
@@ -72,8 +82,9 @@ span {
 }
 
 .picture {
-  border: 3px solid var(--border-color);
+  border: 2px solid var(--border-color);
   filter: var(--grayscale);
+  border-radius: 3%;
   padding: 0;
 }
 
