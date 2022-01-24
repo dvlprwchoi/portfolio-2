@@ -5,11 +5,11 @@
 
 .single-project-container {
   margin: 0.5%;
-  flex: 1 1 220px;
+  flex: 1 1 250px;
   /* flex: 1 1 29%; */
   border: 3px solid var(--cardBorder-color);
-  display: grid;
-  grid-template-rows: 1fr 1.5fr 0.5fr 3fr;
+  /* display: grid; */
+  /* grid-template-rows: 1fr 2fr 1fr 3fr; */
 }
 
 .project-title {
