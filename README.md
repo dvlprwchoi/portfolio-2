@@ -20,18 +20,18 @@
 ## Portfolio 2.0 Desktop view / mobile view with dark mode / mobile view
 
 <p align = 'center'>
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio/main/src/img/portfolio-screenshot-desktop-20220124.png' alt='Desktop view' />
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio/main/src/img/portfolio-screenshot-desktop-projects-20220124.png' alt='Desktop projects view' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-desktop-20220124.png' alt='Desktop view' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-desktop-projects-20220124.png' alt='Desktop projects view' />
 </p>
 
 <p align = 'center'>
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio/main/src/img/portfolio-screenshot-mobile-20220124.png' alt='Mobil view' />
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio/main/src/img/portfolio-screenshot-mobile-projects-20220124.png' alt='Mobile projects view' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-20220124.png' alt='Mobil view' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-projects-20220124.png' alt='Mobile projects view' />
 </p>
 
 <p align = 'center'>
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio/main/src/img/portfolio-screenshot-mobile-dark-20220124.png' alt='Mobile darkmode view' />
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio/main/src/img/portfolio-screenshot-mobile-dark-2-20220124.png' alt='Mobile darkmode view' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-dark-20220124.png' alt='Mobile darkmode view' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-dark-2-20220124.png' alt='Mobile darkmode view' />
 </p>
 
 ## Portfolio 1.0 Mobile view / mobile view with dark mode / desktop view
