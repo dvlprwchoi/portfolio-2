@@ -1,7 +1,7 @@
 import Contact from '../Contact/Contact';
 import Projects from '../Projects/Projects';
 import Skills from '../Skills/Skills';
-import profilePicture from '../../img/profile-picture-160x160.jpg';
+import profilePicture from '../../img/profile-picture.jpg';
 import resumeIcon from '../../img/resume-icon.png';
 
 function Main() {
