@@ -29,6 +29,7 @@ body,
 .header h1,
 .header p {
   font-family: 'Press Start 2P', cursive;
+  line-height: 1.6;
 }
 
 .header h1 {
