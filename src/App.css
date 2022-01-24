@@ -15,6 +15,7 @@ body,
 #root {
   display: flex;
   justify-content: center;
+  padding-top: 1%;
 }
 
 .App {
@@ -90,6 +91,26 @@ span {
 
 .profile-picture {
   border-radius: 25%;
+}
+
+@media (max-width: 414px) {
+  /* navbar media query in Navbar.css */
+  h2 {
+    text-align: center;
+  }
+
+  .resume-icon-container {
+    justify-content: center;
+    margin: 0;
+  }
+
+  .icon {
+    width: 15%;
+  }
+
+  .contact-information-container ul {
+    flex-direction: column;
+  }
 }
 
 /* Light Mode */

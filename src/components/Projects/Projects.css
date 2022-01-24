@@ -5,8 +5,8 @@
 
 .single-project-container {
   margin: 0.5%;
-  /* flex: 1 1 220px; */
-  flex: 1 1 29%;
+  flex: 1 1 220px;
+  /* flex: 1 1 29%; */
   border: 3px solid var(--cardBorder-color);
   display: grid;
   grid-template-rows: 1fr 1.5fr 0.5fr 3fr;

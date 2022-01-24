@@ -29,6 +29,7 @@
   text-decoration: none;
   color: var(--navbarA-color);
   font-size: calc(9px + 0.9vmin);
+  font-weight: bolder;
 }
 
 .darkmode-button {
@@ -42,4 +43,16 @@
   border-radius: 35%;
   padding: 0.5%;
   margin: 0.8%;
+}
+
+@media (max-width: 414px) {
+  .navbar ul {
+    justify-content: space-between;
+    padding: 2%;
+  }
+
+  .darkmode-icon {
+    width: 5%;
+    padding: 1%;
+  }
 }
