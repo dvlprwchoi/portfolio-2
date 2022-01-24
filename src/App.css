@@ -123,6 +123,10 @@ span {
   --cardBackground-color: rgba(255, 248, 220, 0.733);
   --navbar-background-color: #333;
   --navbarA-color: #f2f2f2;
+  --navbarAHover-color: brown;
+  --navbarLiHover-color: brown;
+  --targetBackground-color: #e5eecc;
+  --targetBorder-color: #d4d4d4;
   --grayscale: grayscale(0%);
   /* --dark-mode-button-background-color: rgba(67, 4, 126, 0.562); */
   --dark-mode-button-background-color: rgba(190, 141, 236, 0.562);
@@ -136,6 +140,10 @@ span {
   --cardBackground-color: rgba(255, 248, 220, 0.877);
   --navbar-background-color: black;
   --navbarA-color: white;
+  --navbarAHover-color: brown;
+  --navbarLiHover-color: brown;
+  --targetBackground-color: #e5eecc4d;
+  --targetBorder-color: #d4d4d438;
   --grayscale: grayscale(30%);
   --dark-mode-button-background-color: rgba(230, 205, 174, 0.5);
 }

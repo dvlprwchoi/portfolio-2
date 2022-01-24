@@ -32,6 +32,23 @@
   font-weight: bolder;
 }
 
+.navbar a:hover {
+  color: var(--navbarAHover-color);
+}
+
+.navbar a:active {
+  color: var(--navbarA-color);
+}
+
+.navbar li:active {
+  background-color: var(--navbarLiHover-color);
+}
+
+:target {
+  border: 2px solid var(--targetBorder-color);
+  background-color: var(--targetBackground-color);
+}
+
 .darkmode-button {
   display: contents;
   cursor: pointer;
