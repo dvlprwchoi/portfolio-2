@@ -5,3 +5,9 @@
   background-color: var(--navbar-background-color);
   color: var(--navbarA-color);
 }
+
+@media (max-width: 414px) {
+  .footer p {
+    width: 198px;
+  }
+}
