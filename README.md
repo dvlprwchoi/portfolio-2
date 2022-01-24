@@ -17,21 +17,20 @@
 
 # Previews
 
-## Portfolio 2.0 Desktop view / mobile view with dark mode / mobile view
+## Portfolio 2.0 Desktop view
 
 <p align = 'center'>
 <img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-desktop-20220124.png' alt='Desktop view' />
 <img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-desktop-projects-20220124.png' alt='Desktop projects view' />
 </p>
 
-<p align = 'center'>
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-20220124.png' alt='Mobil view' />
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-projects-20220124.png' alt='Mobile projects view' />
-</p>
+## Portfolio 2.0 Mobile view with light mode and dark mode
 
 <p align = 'center'>
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-dark-20220124.png' alt='Mobile darkmode view' />
-<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-dark-2-20220124.png' alt='Mobile darkmode view' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-20220124.png' alt='Mobil view' width='20%' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-projects-20220124.png' alt='Mobile projects view' width='20%' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-dark-20220124.png' alt='Mobile darkmode view' width='20%' />
+<img align='center' src='https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/portfolio-screenshot-mobile-dark-2-20220124.png' alt='Mobile darkmode view' width='20%' />
 </p>
 
 ## Portfolio 1.0 Mobile view / mobile view with dark mode / desktop view
