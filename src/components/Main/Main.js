@@ -11,7 +11,7 @@ function Main() {
         <h2>ABOUT WOO-SIK</h2>
         <div className="profile-picture-div">
           <img
-            className="profile-picture"
+            className="profile-picture picture"
             src={profilePicture}
             alt="Woo-Sik Choi Profile Picture"
             width="25%"

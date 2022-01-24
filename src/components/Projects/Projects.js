@@ -27,7 +27,7 @@ function Projects() {
             target="_blank"
           >
             <img
-              className="screenshot"
+              className="screenshot picture"
               src={weatherDashboardScreenshot}
               alt="Weather Dashboard Screenshot"
               width="97%"
@@ -73,7 +73,7 @@ function Projects() {
             target="_blank"
           >
             <img
-              className="screenshot"
+              className="screenshot picture"
               src={covidNumbersScreenshot}
               alt="Covid-19 Numbers App Screenshot"
               width="97%"
@@ -114,7 +114,7 @@ function Projects() {
           <h3 className="project-title">TIC TAC TOE</h3>
           <a href="https://dvlprwchoi.github.io/tictactoe" target="_blank">
             <img
-              className="screenshot"
+              className="screenshot picture"
               src={tictactoeScreenshot}
               alt="Tictactoe Screenshot"
               width="97%"
@@ -151,7 +151,7 @@ function Projects() {
           <h3 className="project-title">TODO LIST APP</h3>
           <a href="https://woosik-tdl.netlify.app" target="_blank">
             <img
-              className="screenshot"
+              className="screenshot picture"
               src={tdlScreenshot}
               alt="Todo List App Screenshot"
               width="97%"
@@ -186,7 +186,7 @@ function Projects() {
           <h3 className="project-title">COFFEEHOLIC</h3>
           <a href="https://woosik-coffeeholic.netlify.app/" target="_blank">
             <img
-              className="screenshot"
+              className="screenshot picture"
               src={coffeeholicScreenshot}
               alt="Coffeeholic Screenshot"
               width="97%"
@@ -240,7 +240,7 @@ function Projects() {
           <h3 className="project-title">JAVASCRIPT CALCULATOR</h3>
           <a href="https://dvlprwchoi.github.io/js-calculator" target="_blank">
             <img
-              className="screenshot"
+              className="screenshot picture"
               src={jsCalculatorScreenshot}
               alt="JavaScript Calculator Screenshot"
               width="97%"
@@ -277,7 +277,7 @@ function Projects() {
           <h3 className="project-title">GITNOMS</h3>
           <a href="https://gitnoms.netlify.app/" target="_blank">
             <img
-              className="screenshot"
+              className="screenshot picture"
               src={gitnomsScreenshot}
               alt="Gitnoms App Screenshot"
               width="97%"
@@ -313,7 +313,7 @@ function Projects() {
           <h3 className="project-title">MINI OMOK (오목)</h3>
           <a href="https://dvlprwchoi.github.io/omok-game/" target="_blank">
             <img
-              className="screenshot"
+              className="screenshot picture"
               src={miniOmokScreenshot}
               alt="Mini Omok Screenshot"
               width="97%"

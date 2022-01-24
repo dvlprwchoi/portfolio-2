@@ -71,6 +71,16 @@ span {
   padding: 0;
 }
 
+.picture {
+  border: 3px solid var(--border-color);
+  filter: var(--grayscale);
+  padding: 0;
+}
+
+.profile-picture {
+  border-radius: 25%;
+}
+
 /* Light Mode */
 [theme='light'] {
   --background-color: white;
