@@ -5,10 +5,24 @@
 
 .icon-container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
 .icon-link-container {
   display: contents;
+  color: var(--text-color);
+}
+
+.icon-link-container:hover {
+  color: var(--text-color);
+}
+
+.icon-link-container:active {
+  color: var(--text-color);
+}
+
+.icon-link-container:visited {
+  color: var(--text-color);
 }

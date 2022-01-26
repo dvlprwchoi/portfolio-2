@@ -10,7 +10,7 @@ function Contact() {
       <h2>CONTACT</h2>
       <div className="contact-information-container">
         <ul>
-          <li className="icon-container">
+          <li className="linkedin-container icon-container">
             <a
               className="icon-link-container"
               href="https://www.linkedin.com/in/woosikchoi"
@@ -23,9 +23,10 @@ function Contact() {
                 width="15%"
                 height="auto"
               />
+              LinkedIn
             </a>
           </li>
-          <li className="icon-container">
+          <li className="github-container icon-container">
             <a
               className="icon-link-container"
               href="https://www.github.com/dvlprwchoi"
@@ -38,9 +39,10 @@ function Contact() {
                 width="15%"
                 height="auto"
               />
+              GitHub
             </a>
           </li>
-          <li className="icon-container">
+          <li className="gmail-container icon-container">
             <a
               className="icon-link-container"
               href="mailto:dvlpr.wchoi@gmail.com?subject=Mail from woosikchoi.com"
@@ -53,9 +55,10 @@ function Contact() {
                 width="15%"
                 height="auto"
               />
+              Email
             </a>
           </li>
-          <li className="icon-container">
+          <li className="twitter-container icon-container">
             <a
               className="icon-link-container"
               href="https://www.twitter.com/dvlprwchoi"
@@ -68,6 +71,7 @@ function Contact() {
                 width="15%"
                 height="auto"
               />
+              Twitter
             </a>
           </li>
         </ul>

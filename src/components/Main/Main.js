@@ -31,20 +31,26 @@ function Main() {
       <Projects />
       <div className="resume" id="resume">
         <h2>RESUME</h2>
-        <p className="resume-icon-container">
-          <a
-            href="https://drive.google.com/file/d/1OUYnIQoEs8iinhzO_sTwx7YZUc3vxgJ-/view?usp=sharing"
-            target="_blank"
-          >
-            <img
-              className="resume-icon icon"
-              src={resumeIcon}
-              alt="Resume Icon"
-              width="5%"
-              height="auto"
-            />
-          </a>
-        </p>
+        <div className="resume-information-container">
+          <ul>
+            <li className="resume-icon-container">
+              <a
+                className="icon-link-container"
+                href="https://drive.google.com/file/d/1OUYnIQoEs8iinhzO_sTwx7YZUc3vxgJ-/view?usp=sharing"
+                target="_blank"
+              >
+                <img
+                  className="resume-icon icon"
+                  src={resumeIcon}
+                  alt="Resume Icon"
+                  width="20%"
+                  height="auto"
+                />
+                Resume.pdf
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
       <Contact />
     </div>
