@@ -36,7 +36,7 @@ function Main() {
             <li className="resume-icon-container">
               <a
                 className="icon-link-container"
-                href="https://drive.google.com/file/d/1OUYnIQoEs8iinhzO_sTwx7YZUc3vxgJ-/view?usp=sharing"
+                href="https://drive.google.com/file/d/1JHYi59nxc2K9ckEuUV2fMarDFswRB0MN/view?usp=sharing"
                 target="_blank"
               >
                 <img

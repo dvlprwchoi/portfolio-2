@@ -44,13 +44,14 @@ function Projects() {
             </a>
           </div>
           <p>
-            The <span>Dev Blog</span> is a developer's blog platform. A user can
-            login with a Gmail account. Once user is logged into the DEV BLOG,
-            user can create and delete own blog posts. This is a single page web
-            application built with ReactJS and Google Firebase for cloud server.
-            Google user authentication and Firestore database were used for this
-            project. This app has a mobile responsive design depends on a
-            device's screen size. It also features toggling dark/light mode.
+            The <span>Dev Blog</span> is a developer's blog platform. Users can
+            login with their Gmail accounts. Once users are logged into the DEV
+            BLOG, users can create and delete their own blog posts. This is a
+            single page web application built with ReactJS and Google Firebase
+            for cloud server. Google user authentication and Firestore database
+            were used for this project. This app has a mobile responsive design
+            depends on a device's screen size. It also features toggling
+            dark/light mode.
             <br />
             &nbsp;
             <br />
@@ -96,8 +97,8 @@ function Projects() {
           </div>
           <p>
             The <span>Weather Dashboard</span> is a single page web application
-            built with ReactJS and 3rd party weather API. A user can get weather
-            information by typing a city name or a zip code. This app has a
+            built with ReactJS and 3rd party weather API. Users can get weather
+            information by typing city names or zip codes. This app has a
             carousel view that displays weather detail page, 3 days forecast,
             and weather alert messages. This app has a mobile responsive design
             depends on a device's screen size. It also features toggling
@@ -145,8 +146,8 @@ function Projects() {
             The <span>COVID-19 Numbers App</span> is a single page web
             application built with ReactJS and 3rd party COVID-19 API. This app
             has a mobile responsive design depends on a device's screen size. It
-            shows on-demand COVID-19 related numerical data. A user also can get
-            data by typing a county name.
+            shows on-demand COVID-19 related numerical data. Users also can get
+            data by typing a country name.
             <br />
             &nbsp;
             <br />
@@ -218,7 +219,7 @@ function Projects() {
           </div>
           <p>
             The <span>Todo List App</span> is a simple task management web
-            application built with ReactJS. A user can add and remove to-do from
+            application built with ReactJS. Users can add and remove to-do from
             the list. It displays total and remaining to-do number.
             <br />
             &nbsp;
@@ -267,8 +268,8 @@ function Projects() {
             </a>
           </div>
           <p>
-            The <span>Coffeeholic</span> is an online memo application for your
-            favorite coffee shops. This is a full-stack application with CRUD
+            The <span>Coffeeholic</span> is a blog for posting your favorite
+            coffee shops. This is a full-stack application with CRUD
             functionality and user authentication.
             <br />
             &nbsp;
