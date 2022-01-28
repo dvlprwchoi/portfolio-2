@@ -68,7 +68,8 @@ function Projects() {
         <div className="weather-dashboard-project single-project-container">
           <h3 className="project-title">WEATHER DASHBOARD</h3>
           <a
-            href="https://woosik-weather-dashboard.netlify.app"
+            // href="https://woosik-weather-dashboard.netlify.app"
+            href="https://weather.woosikchoi.com"
             target="_blank"
           >
             <img
@@ -114,7 +115,8 @@ function Projects() {
         <div className="covid-19-numbers-project single-project-container">
           <h3 className="project-title">COVID-19 NUMBERS APP</h3>
           <a
-            href="https://woosik-covid-19-numbers.netlify.app/"
+            // href="https://woosik-covid-19-numbers.netlify.app/"
+            href="https://covid-19-numbers.woosikchoi.com/"
             target="_blank"
           >
             <img
