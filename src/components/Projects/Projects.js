@@ -1,4 +1,5 @@
 import './Projects.css';
+import devBlogScreenshot from '../../img/dev-blog-img-20220127.png';
 import weatherDashboardScreenshot from '../../img/weather-dashboard-img-20211219.png';
 import covidNumbersScreenshot from '../../img/covid-19-numbers-img-20211223.png';
 import tictactoeScreenshot from '../../img/tictactoe-img-20211209.png';
@@ -17,6 +18,50 @@ function Projects() {
         CLICK screenshot images for live sites or GitHub logos for my codes!
       </p>
       <div className="projects-container">
+        {/*  */}
+        {/* dev-blog */}
+        {/*  */}
+        <div className="dev-blog-project single-project-container">
+          <h3 className="project-title">DEV BLOG</h3>
+          <a href="https://woosik-dev-blog.netlify.app" target="_blank">
+            <img
+              className="screenshot picture"
+              src={devBlogScreenshot}
+              alt="Dev Blog Screenshot"
+              width="97%"
+              height="auto"
+            />
+          </a>
+          <div className="one-git-repo">
+            <a href="https://github.com/dvlprwchoi/dev-blog" target="_blank">
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a>
+          </div>
+          <p>
+            The <span>Dev Blog</span> is a developer's blog platform. A user can
+            login with a Gmail account. Once user is logged into the DEV BLOG,
+            user can create and delete own blog posts. This is a single page web
+            application built with ReactJS and Google Firebase for cloud server.
+            Google user authentication and Firestore database were used for this
+            project. This app has a mobile responsive design depends on a
+            device's screen size. It also features toggling dark/light mode.
+            <br />
+            &nbsp;
+            <br />
+            Technologies used:{' '}
+            <span>
+              HTML, CSS, JavaScript, ReactJS, and Google Firebase (User
+              authentication, Firestore database)
+            </span>
+            .
+          </p>
+        </div>
         {/*  */}
         {/* weather-dashboard */}
         {/*  */}
