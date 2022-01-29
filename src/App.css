@@ -15,7 +15,7 @@ body,
 #root {
   display: flex;
   justify-content: center;
-  padding-top: 1%;
+  padding: 1% 0;
 }
 
 .App {
@@ -132,6 +132,9 @@ span {
 }
 
 @media (max-width: 414px) {
+  #root {
+    padding: 0;
+  }
   /* navbar media query in Navbar.css */
   h2 {
     text-align: center;
