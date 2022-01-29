@@ -13,7 +13,7 @@ function Main() {
           <img
             className="profile-picture picture"
             src={profilePicture}
-            alt="Woo-Sik Choi Profile Picture"
+            alt="Woo-Sik Choi Face"
             width="25%"
             height="auto"
           />
@@ -38,6 +38,7 @@ function Main() {
                 className="icon-link-container"
                 href="https://drive.google.com/file/d/1JHYi59nxc2K9ckEuUV2fMarDFswRB0MN/view?usp=sharing"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
                   className="resume-icon icon"

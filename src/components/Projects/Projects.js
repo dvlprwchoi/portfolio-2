@@ -23,7 +23,11 @@ function Projects() {
         {/*  */}
         <div className="dev-blog-project single-project-container">
           <h3 className="project-title">DEV BLOG</h3>
-          <a href="https://woosik-dev-blog.netlify.app" target="_blank">
+          <a
+            href="https://woosik-dev-blog.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="screenshot picture"
               src={devBlogScreenshot}
@@ -33,7 +37,11 @@ function Projects() {
             />
           </a>
           <div className="one-git-repo">
-            <a href="https://github.com/dvlprwchoi/dev-blog" target="_blank">
+            <a
+              href="https://github.com/dvlprwchoi/dev-blog"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img
                 className="git-repo-icon"
                 src={githubIcon}
@@ -72,6 +80,7 @@ function Projects() {
             // href="https://woosik-weather-dashboard.netlify.app"
             href="https://weather.woosikchoi.com"
             target="_blank"
+            rel="noreferrer"
           >
             <img
               className="screenshot picture"
@@ -85,6 +94,7 @@ function Projects() {
             <a
               href="https://github.com/dvlprwchoi/weather-dashboard"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="git-repo-icon"
@@ -119,6 +129,7 @@ function Projects() {
             // href="https://woosik-covid-19-numbers.netlify.app/"
             href="https://covid-19-numbers.woosikchoi.com/"
             target="_blank"
+            rel="noreferrer"
           >
             <img
               className="screenshot picture"
@@ -132,6 +143,7 @@ function Projects() {
             <a
               href="https://github.com/dvlprwchoi/covid-19-numbers"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="git-repo-icon"
@@ -160,7 +172,11 @@ function Projects() {
         {/*  */}
         <div className="tictactoe-project single-project-container">
           <h3 className="project-title">TIC TAC TOE</h3>
-          <a href="https://dvlprwchoi.github.io/tictactoe" target="_blank">
+          <a
+            href="https://dvlprwchoi.github.io/tictactoe"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="screenshot picture"
               src={tictactoeScreenshot}
@@ -170,7 +186,11 @@ function Projects() {
             />
           </a>
           <div className="one-git-repo">
-            <a href="https://github.com/dvlprwchoi/tictactoe" target="_blank">
+            <a
+              href="https://github.com/dvlprwchoi/tictactoe"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img
                 className="git-repo-icon"
                 src={githubIcon}
@@ -197,7 +217,11 @@ function Projects() {
         {/*  */}
         <div className="tdl-project single-project-container">
           <h3 className="project-title">TODO LIST APP</h3>
-          <a href="https://woosik-tdl.netlify.app" target="_blank">
+          <a
+            href="https://woosik-tdl.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="screenshot picture"
               src={tdlScreenshot}
@@ -207,7 +231,11 @@ function Projects() {
             />
           </a>
           <div className="one-git-repo">
-            <a href="https://github.com/dvlprwchoi/tdl" target="_blank">
+            <a
+              href="https://github.com/dvlprwchoi/tdl"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img
                 className="git-repo-icon"
                 src={githubIcon}
@@ -232,7 +260,11 @@ function Projects() {
         {/*  */}
         <div className="coffeeholic-project single-project-container">
           <h3 className="project-title">COFFEEHOLIC</h3>
-          <a href="https://woosik-coffeeholic.netlify.app/" target="_blank">
+          <a
+            href="https://woosik-coffeeholic.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="screenshot picture"
               src={coffeeholicScreenshot}
@@ -245,6 +277,7 @@ function Projects() {
             <a
               href="https://github.com/dvlprwchoi/coffeeholic-frontend"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="git-repo-icon"
@@ -257,6 +290,7 @@ function Projects() {
             <a
               href="https://github.com/dvlprwchoi/coffeeholic-backend"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="git-repo-icon"
@@ -286,7 +320,11 @@ function Projects() {
         {/*  */}
         <div className="js-calculator-project single-project-container">
           <h3 className="project-title">JAVASCRIPT CALCULATOR</h3>
-          <a href="https://dvlprwchoi.github.io/js-calculator" target="_blank">
+          <a
+            href="https://dvlprwchoi.github.io/js-calculator"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="screenshot picture"
               src={jsCalculatorScreenshot}
@@ -299,6 +337,7 @@ function Projects() {
             <a
               href="https://github.com/dvlprwchoi/js-calculator"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="git-repo-icon"
@@ -323,7 +362,11 @@ function Projects() {
         {/*  */}
         <div className="gitnoms-project single-project-container">
           <h3 className="project-title">GITNOMS</h3>
-          <a href="https://gitnoms.netlify.app/" target="_blank">
+          <a
+            href="https://gitnoms.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="screenshot picture"
               src={gitnomsScreenshot}
@@ -333,7 +376,11 @@ function Projects() {
             />
           </a>
           <div className="one-git-repo">
-            <a href="https://github.com/TheCodingChefs" target="_blank">
+            <a
+              href="https://github.com/TheCodingChefs"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img
                 className="git-repo-icon"
                 src={githubIcon}
@@ -359,7 +406,11 @@ function Projects() {
         {/*  */}
         <div className="mini-omok-project single-project-container">
           <h3 className="project-title">MINI OMOK (오목)</h3>
-          <a href="https://dvlprwchoi.github.io/omok-game/" target="_blank">
+          <a
+            href="https://dvlprwchoi.github.io/omok-game/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="screenshot picture"
               src={miniOmokScreenshot}
@@ -369,7 +420,11 @@ function Projects() {
             />
           </a>
           <div className="one-git-repo">
-            <a href="https://github.com/dvlprwchoi/omok-game" target="_blank">
+            <a
+              href="https://github.com/dvlprwchoi/omok-game"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img
                 className="git-repo-icon"
                 src={githubIcon}

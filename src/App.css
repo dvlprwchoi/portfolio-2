@@ -35,7 +35,7 @@ body,
   overflow: hidden;
   border-right: calc(1px + 0.8vmin) solid var(--text-color);
   letter-spacing: calc(1px + 0.8vmin);
-  animation: typing 3.5s steps(7, end), blink-cursor 0.75s step-end infinite;
+  animation: typing 1100ms steps(7, end), blink-cursor 750ms step-end infinite;
 }
 
 @keyframes typing {
