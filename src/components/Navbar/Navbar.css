@@ -47,6 +47,7 @@
 :target {
   border: 2px solid var(--targetBorder-color);
   background-color: var(--targetBackground-color);
+  transition: background-color 1900ms ease-in-out;
 }
 
 .darkmode-button {
