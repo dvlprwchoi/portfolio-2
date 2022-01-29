@@ -36,6 +36,11 @@
   color: var(--navbarAHover-color);
 }
 
+/* :focus is not working */
+/* .navbar a:focus {
+  color: var(--navbarAHover-color);
+} */
+
 .navbar a:active {
   color: var(--navbarA-color);
 }
@@ -47,6 +52,7 @@
 :target {
   border: 2px solid var(--targetBorder-color);
   background-color: var(--targetBackground-color);
+  transition: background-color 1900ms ease-in-out;
 }
 
 .darkmode-button {
@@ -66,6 +72,10 @@
   .navbar ul {
     justify-content: space-between;
     padding: 2%;
+  }
+
+  .navbar li {
+    margin: -2% 0;
   }
 
   .darkmode-icon {

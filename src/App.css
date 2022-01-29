@@ -15,7 +15,7 @@ body,
 #root {
   display: flex;
   justify-content: center;
-  padding-top: 1%;
+  padding: 1% 0;
 }
 
 .App {
@@ -132,6 +132,9 @@ span {
 }
 
 @media (max-width: 414px) {
+  #root {
+    padding: 0;
+  }
   /* navbar media query in Navbar.css */
   h2 {
     text-align: center;
@@ -159,6 +162,7 @@ span {
   --border-color: #333;
   --cardBorder-color: cadetblue;
   --cardBackground-color: rgba(255, 248, 220, 0.733);
+  --cardShadow-color: #333;
   --navbar-background-color: #333;
   --navbarA-color: #f2f2f2;
   --navbarAHover-color: brown;
@@ -176,6 +180,7 @@ span {
   --border-color: black;
   --cardBorder-color: rgba(95, 158, 160, 0.493);
   --cardBackground-color: rgba(255, 248, 220, 0.877);
+  --cardShadow-color: black;
   --navbar-background-color: black;
   --navbarA-color: white;
   --navbarAHover-color: brown;
