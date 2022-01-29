@@ -68,6 +68,10 @@
     padding: 2%;
   }
 
+  .navbar li {
+    margin: -2% 0;
+  }
+
   .darkmode-icon {
     width: 5%;
     padding: 1%;
