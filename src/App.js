@@ -14,7 +14,9 @@ function App() {
   return (
     <div className="App" theme={isDark ? 'dark' : 'light'}>
       <div className="header">
-        <h1>Hello!</h1>
+        <div className="typing-div">
+          <h1>Hello!</h1>
+        </div>
         <p>My name is Woo-Sik Choi</p>
       </div>
       <Navbar _changeTheme={_changeTheme} />
