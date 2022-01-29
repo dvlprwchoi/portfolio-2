@@ -36,6 +36,11 @@
   color: var(--navbarAHover-color);
 }
 
+/* :focus is not working */
+/* .navbar a:focus {
+  color: var(--navbarAHover-color);
+} */
+
 .navbar a:active {
   color: var(--navbarA-color);
 }
