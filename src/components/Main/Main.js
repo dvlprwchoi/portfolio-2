@@ -19,12 +19,31 @@ function Main() {
           />
         </div>
         <p>
-          I am a <span>SOFTWARE DEVELOPER</span> with a background in{' '}
-          <span>STEM</span> education and cancer related research, as well as{' '}
-          <span>ARMY NURSING</span>. I am currently located in{' '}
-          <span>AUSTIN, TX</span>. I am a critical thinker and like to pay
-          attention to details. I play the violin and love cooking, running,
-          swimming, biking, and skiing. I also enjoy building and fixing stuff.
+          I built my first website using HTML when I was 10 years old. Coding
+          was my first hobby, I may have been Korea’s youngest web editor. My
+          passion for making the internet functional and fun traveled with me
+          through became a side project while I pursued my career inspired to
+          reduce human disease in roles in food science, and practical nursing
+          specialist in the Army.
+        </p>
+        <p>
+          I can fix your car, build a Lego International Space Station, update
+          you on breast cancer and diet research, all with the same level of
+          patience, creativity, and attention to detail that I now bring to
+          software development.
+        </p>
+        <p>
+          Merging my life-long interest in coding with updated skill and
+          experience, I expanded my software development skills and am pursuing
+          a new career as a software developer. As a recent graduate from a
+          Software Engineering coding bootcamp, I am currently working on
+          personal projects to challenge and expand my expertise. I am building
+          websites for my entrepreneurial friends, working on a restaurant app
+          to make dinner choice easier, and refining my skills to be ready for
+          my dream role.
+        </p>
+        <p>
+          When I’m not coding, I play the violin, cook, run, swim, and bike.
         </p>
       </div>
       <Skills />

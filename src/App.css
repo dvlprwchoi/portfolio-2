@@ -83,6 +83,11 @@ body,
   justify-content: center;
 }
 
+.about p::first-letter {
+  font-weight: bolder;
+  font-size: calc(10px + 2vmin);
+}
+
 .resume-information-container ul {
   display: flex;
 }
