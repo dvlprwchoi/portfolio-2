@@ -20,11 +20,11 @@ function Main() {
         </div>
         <p>
           I built my first website using HTML when I was 10 years old. Coding
-          was my first hobby, I may have been Korea’s youngest web editor. My
-          passion for making the internet functional and fun traveled with me
-          through became a side project while I pursued my career inspired to
-          reduce human disease in roles in food science, and practical nursing
-          specialist in the Army.
+          was my first hobby, I may have been Korea’s youngest web editor. These
+          abilities that required great attention to detail were instrumental in
+          the development of my analytical and problem solving skills. It was
+          key in my career path as I pursued roles in food science to reduce
+          human disease, and through practical nursing in the Army.
         </p>
         <p>
           I can fix your car, build a Lego International Space Station, update
@@ -34,9 +34,9 @@ function Main() {
         </p>
         <p>
           Merging my life-long interest in coding with updated skill and
-          experience, I expanded my software development skills and am pursuing
-          a new career as a software developer. As a recent graduate from a
-          Software Engineering coding bootcamp, I am currently working on
+          experience, I expanded my software development abilities and am
+          pursuing a new career as a software developer. As a recent graduate
+          from a Software Engineering coding bootcamp, I am currently working on
           personal projects to challenge and expand my expertise. I am building
           websites for my entrepreneurial friends, working on a restaurant app
           to make dinner choice easier, and refining my skills to be ready for
