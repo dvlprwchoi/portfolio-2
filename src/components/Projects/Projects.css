@@ -25,6 +25,11 @@
   display: contents;
 }
 
+.screenshot:hover {
+  transform: scale(1.01);
+  filter: grayscale(0%);
+}
+
 .one-git-repo {
   display: flex;
   justify-content: center;
