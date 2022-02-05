@@ -26,7 +26,3 @@
 .icon-link-container:visited {
   color: var(--text-color);
 }
-
-.icon {
-  filter: var(--grayscale);
-}

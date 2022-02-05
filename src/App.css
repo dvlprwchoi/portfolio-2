@@ -136,6 +136,15 @@ span {
   border-radius: 25%;
 }
 
+.icon {
+  filter: var(--grayscale);
+}
+
+.icon:hover {
+  transform: scale(1.1);
+  filter: grayscale(0%);
+}
+
 @media (max-width: 414px) {
   #root {
     padding: 0;
@@ -174,7 +183,7 @@ span {
   --navbarLiHover-color: brown;
   --targetBackground-color: #e5eecc;
   --targetBorder-color: #d4d4d4;
-  --grayscale: grayscale(0%);
+  --grayscale: grayscale(10%);
   /* --dark-mode-button-background-color: rgba(67, 4, 126, 0.562); */
   --dark-mode-button-background-color: rgba(190, 141, 236, 0.562);
 }
@@ -192,6 +201,6 @@ span {
   --navbarLiHover-color: brown;
   --targetBackground-color: #e5eecc4d;
   --targetBorder-color: #d4d4d438;
-  --grayscale: grayscale(30%);
+  --grayscale: grayscale(40%);
   --dark-mode-button-background-color: rgba(230, 205, 174, 0.5);
 }
