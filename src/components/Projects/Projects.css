@@ -21,6 +21,10 @@
   align-items: center;
 }
 
+.single-project-container p::first-letter {
+  padding-left: 2%;
+}
+
 .single-project-container a {
   display: contents;
 }
