@@ -86,6 +86,14 @@ body,
 .about p::first-letter {
   font-weight: bolder;
   font-size: calc(10px + 2vmin);
+  /* float: left; */
+  /* line-height: 95%; */
+  /* margin-top: 1%; */
+  /* margin-bottom: -1%; */
+  margin-left: 2%;
+  /* margin-right: 3%; */
+  /* padding: 1%; */
+  /* border: 1px solid black; */
 }
 
 .resume-information-container ul {
