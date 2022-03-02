@@ -15,6 +15,7 @@ function Contact() {
               className="icon-link-container"
               href="https://www.linkedin.com/in/woosikchoi"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="linkedin-icon icon"
@@ -31,6 +32,7 @@ function Contact() {
               className="icon-link-container"
               href="https://www.github.com/dvlprwchoi"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="github-icon icon"
@@ -47,6 +49,7 @@ function Contact() {
               className="icon-link-container"
               href="mailto:dvlpr.wchoi@gmail.com?subject=Mail from woosikchoi.com"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="gmail-icon icon"
@@ -63,6 +66,7 @@ function Contact() {
               className="icon-link-container"
               href="https://www.twitter.com/dvlprwchoi"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 className="twitter-icon icon"
