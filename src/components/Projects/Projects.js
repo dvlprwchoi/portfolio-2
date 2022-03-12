@@ -1,6 +1,10 @@
 import './Projects.css';
-import sugarnkrumbsScreenshot from '../../img/sugarnkrumbs-website-img-20220311.png';
-import sugarnkrumbsScreenshot2 from '../../img/sugarnkrumbs-website-img-2-20220311.png';
+// import sugarnkrumbsScreenshot from '../../img/sugarnkrumbs-website-img-20220311.png';
+// import sugarnkrumbsScreenshot2 from '../../img/sugarnkrumbs-website-img-2-20220311.png';
+import sugarnkrumbsScreenshot3 from '../../img/sugarnkrumbs-website-img-3-20220311.png';
+import sugarnkrumbsScreenshot4 from '../../img/sugarnkrumbs-website-img-4-20220311.png';
+import sugarnkrumbsScreenshot5 from '../../img/sugarnkrumbs-website-img-5-20220311.png';
+import sugarnkrumbsScreenshot6 from '../../img/sugarnkrumbs-website-img-6-20220311.png';
 import devBlogScreenshot from '../../img/dev-blog-img-20220127.png';
 import weatherDashboardScreenshot from '../../img/weather-dashboard-img-20211219.png';
 import covidNumbersScreenshot from '../../img/covid-19-numbers-img-20211223.png';
@@ -20,6 +24,127 @@ function Projects() {
         CLICK screenshot images for live sites or GitHub logos for my codes!
       </p>
       <div className="projects-container">
+        {/*  */}
+        {/* sugarnkrumbs-website */}
+        {/*  */}
+        <div className="sugarnkrumbs-website-project single-project-container">
+          <h3 className="project-title">SUGAR & KRUMBS WEBSITE</h3>
+          <a
+            href="https://sugarnkrumbs.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              className="screenshot picture"
+              src={sugarnkrumbsScreenshot3}
+              alt="Sugar & Krumbs Website Screenshot"
+              width="97%"
+              height="auto"
+            />
+            <img
+              className="screenshot picture"
+              src={sugarnkrumbsScreenshot4}
+              alt="Sugar & Krumbs Website Screenshot"
+              width="97%"
+              height="auto"
+            />
+          </a>
+          <div className="one-git-repo">
+            {/* <a
+              href="https://github.com/dvlprwchoi"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a> */}
+          </div>
+          <p>
+            The <span>Sugar & Krumbs Website</span> project was started for my
+            friend who owns a small business. This is a website for her bakery.
+            Customers can explore her bakery items before they make pre-orders.
+            This is a single page web application built with ReactJS and Google
+            Firebase for cloud server. Firestore database was used for this
+            project. This app has a mobile first design for browsing from cell
+            phone screens.
+            <br />
+            &nbsp;
+            <br />
+            Technologies used:{' '}
+            <span>
+              HTML, CSS, JavaScript, ReactJS, and Google Firebase (Firestore
+              database)
+            </span>
+            .
+          </p>
+        </div>
+        {/*  */}
+        {/* sugarnkrumbs-admin-panel */}
+        {/*  */}
+        <div className="sugarnkrumbs-admin-panel-project single-project-container">
+          <h3 className="project-title">SUGAR & KRUMBS ADMIN PANEL</h3>
+          <a
+            // href="https://sugarnkrumbs.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              className="screenshot picture"
+              src={sugarnkrumbsScreenshot5}
+              alt="Sugar & Krumbs Admin Panel Screenshot"
+              width="97%"
+              height="auto"
+            />
+            <img
+              className="screenshot picture"
+              src={sugarnkrumbsScreenshot6}
+              alt="Sugar & Krumbs Admin Panel Screenshot"
+              width="97%"
+              height="auto"
+            />
+          </a>
+          <div className="one-git-repo">
+            {/* <a
+              href="https://github.com/dvlprwchoi"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                className="git-repo-icon"
+                src={githubIcon}
+                alt="GitHub Repository"
+                width="25vw"
+                height="auto"
+              />
+            </a> */}
+          </div>
+          <p>
+            The <span>Sugar & Krumbs Admin Panel</span> project was started for
+            my friend who owns a small business. This is an admin panel website
+            for her bakery. She can add images of new bakery items, edit current
+            items, or delete items using this website. Since Sugar & Krumbs'
+            main website and admin panel website share same database, her
+            customers can access updated information from the main website while
+            she is updating items on this admin panel site. This is a single
+            page web application built with ReactJS and Google Firebase for
+            cloud server. Firestore database was used for this project. This app
+            has a mobile responsive design depends on a device's screen size.
+            <br />
+            &nbsp;
+            <br />
+            Technologies used:{' '}
+            <span>
+              HTML, CSS, JavaScript, ReactJS, and Google Firebase (Firestore
+              database)
+            </span>
+            .
+          </p>
+        </div>
         {/*  */}
         {/* dev-blog */}
         {/*  */}
