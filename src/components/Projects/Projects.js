@@ -147,8 +147,8 @@ function Projects() {
             <br />
             Technologies used:{' '}
             <span>
-              HTML, CSS, JavaScript, ReactJS, and Google Firebase (Firestore
-              database)
+              HTML, CSS, JavaScript, ReactJS, Bootstrap, and Google Firebase
+              (Firestore database)
             </span>
             .
           </p>
@@ -445,7 +445,8 @@ function Projects() {
             <br />
             Technologies used:{' '}
             <span>
-              HTML, CSS, JavaScript, ReactJS, Python, Django, and PostgreSQL
+              HTML, CSS, JavaScript, ReactJS, Bootstrap, Python, Django, and
+              PostgreSQL
             </span>
             .
           </p>
@@ -533,7 +534,10 @@ function Projects() {
             &nbsp;
             <br />
             Technologies used:{' '}
-            <span>HTML, CSS, JavaScript, ReactJS, Mongoose, and MongoDB</span>.
+            <span>
+              HTML, CSS, JavaScript, ReactJS, Bootstrap, Mongoose, and MongoDB
+            </span>
+            .
           </p>
         </div>
         {/*  */}

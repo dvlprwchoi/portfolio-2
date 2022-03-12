@@ -12,14 +12,16 @@ function Skills() {
             <li>CSS</li>
             <li>JavaScript</li>
             <li>ReactJS</li>
+            <li>Bootstrap</li>
           </ul>
         </div>
         <div className="backend-skills-container single-skills-container">
           <h3 className="container-title">BACKEND</h3>
           <ul className="single-skills-container-ul">
             <li>Node.js</li>
-            <li>Mongoose</li>
+            <li>Express.js</li>
             <li>MongoDB</li>
+            <li>Python</li>
             <li>Django</li>
             <li>PostgreSQL</li>
             <li>Google Firebase</li>
