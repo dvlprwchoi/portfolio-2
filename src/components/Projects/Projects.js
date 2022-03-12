@@ -1,4 +1,6 @@
 import './Projects.css';
+import sugarnkrumbsScreenshot from '../../img/sugarnkrumbs-website-img-20220311.png';
+import sugarnkrumbsScreenshot2 from '../../img/sugarnkrumbs-website-img-2-20220311.png';
 import devBlogScreenshot from '../../img/dev-blog-img-20220127.png';
 import weatherDashboardScreenshot from '../../img/weather-dashboard-img-20211219.png';
 import covidNumbersScreenshot from '../../img/covid-19-numbers-img-20211223.png';
@@ -54,12 +56,12 @@ function Projects() {
           <p>
             The <span>Dev Blog</span> is a developer's blog platform. Users can
             login with their Gmail accounts. Once users are logged into the DEV
-            BLOG, users can create and delete their own blog posts. This is a
-            single page web application built with ReactJS and Google Firebase
-            for cloud server. Google user authentication and Firestore database
-            were used for this project. This app has a mobile responsive design
-            depends on a device's screen size. It also features toggling
-            dark/light mode.
+            BLOG, users can create, edit, and delete their own blog posts. Users
+            also can upload image files to their posts. This is a single page
+            web application built with ReactJS and Google Firebase for cloud
+            server. Google user authentication and Firestore database were used
+            for this project. This app has a mobile responsive design depends on
+            a device's screen size. It also features toggling dark/light mode.
             <br />
             &nbsp;
             <br />
