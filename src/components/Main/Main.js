@@ -55,7 +55,7 @@ function Main() {
             <li className="resume-icon-container">
               <a
                 className="icon-link-container"
-                href="https://drive.google.com/file/d/12ZQooyMixF_2uuHmkzqiRxX4J2-0rmXh/view?usp=sharing"
+                href="https://drive.google.com/file/d/18hvNIR0CL9beEl2Yy2ifjc0nmXshCQG4/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >

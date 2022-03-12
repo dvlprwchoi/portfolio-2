@@ -66,12 +66,12 @@ function Projects() {
           </div>
           <p>
             The <span>Sugar & Krumbs Website</span> project was started for my
-            friend who owns a small business. This is a website for her bakery.
-            Customers can explore her bakery items before they make pre-orders.
-            This is a single page web application built with ReactJS and Google
-            Firebase for cloud server. Firestore database was used for this
-            project. This app has a mobile first design for browsing from cell
-            phone screens.
+            friend who owns a small business. This is a website for my friend's
+            bakery. Customers can explore bakery items before they make
+            pre-orders. This is a single page web application built with ReactJS
+            and Google Firebase for cloud server. Firestore database was used
+            for this project. This app has a mobile first design for browsing
+            from cell phone screens.
             <br />
             &nbsp;
             <br />
@@ -134,14 +134,15 @@ function Projects() {
           <p>
             The <span>Sugar & Krumbs Admin Panel</span> project was started for
             my friend who owns a small business. This is an admin panel website
-            for her bakery. She can add images of new bakery items, edit current
-            items, or delete items using this website. Since Sugar & Krumbs'
-            main website and admin panel website share same database, her
-            customers can access updated information from the main website while
-            she is updating items on this admin panel site. This is a single
-            page web application built with ReactJS and Google Firebase for
-            cloud server. Firestore database was used for this project. This app
-            has a mobile responsive design depends on a device's screen size.
+            (Content Management System) for my friend's bakery. My friend can
+            add images of new bakery items, edit current items, or delete items
+            using this website. Since Sugar & Krumbs' main website and admin
+            panel website share same database, customers can access updated
+            information from the main website while my friend is updating items
+            on this admin panel site. This is a single page web application
+            built with ReactJS and Google Firebase for cloud server. Firestore
+            database was used for this project. This app has a mobile responsive
+            design depends on a device's screen size.
             <br />
             &nbsp;
             <br />
