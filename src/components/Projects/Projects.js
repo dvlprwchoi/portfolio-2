@@ -89,7 +89,8 @@ function Projects() {
         <div className="sugarnkrumbs-admin-panel-project single-project-container">
           <h3 className="project-title">SUGAR & KRUMBS ADMIN PANEL</h3>
           <a
-            // href="https://sugarnkrumbs.netlify.app"
+            // href="https://github.com/dvlprwchoi/portfolio-2/blob/main/src/img/sugarnkrumbs-website-img-5-20220311.png?raw=true"
+            href="https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/sugarnkrumbs-website-img-5-20220311.png"
             target="_blank"
             rel="noreferrer"
           >
@@ -100,6 +101,13 @@ function Projects() {
               width="97%"
               height="auto"
             />
+          </a>
+          <a
+            // href="https://github.com/dvlprwchoi/portfolio-2/blob/main/src/img/sugarnkrumbs-website-img-6-20220311.png?raw=true"
+            href="https://raw.githubusercontent.com/dvlprwchoi/portfolio-2/main/src/img/sugarnkrumbs-website-img-6-20220311.png"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="screenshot picture"
               src={sugarnkrumbsScreenshot6}
