@@ -13,6 +13,7 @@ function Skills() {
             <li>JavaScript</li>
             <li>ReactJS</li>
             <li>Bootstrap</li>
+            <li>Material UI</li>
           </ul>
         </div>
         <div className="backend-skills-container single-skills-container">
