@@ -14,6 +14,7 @@ function Skills() {
             <li>ReactJS</li>
             <li>Bootstrap</li>
             <li>Material UI</li>
+            <li>Next.js</li>
           </ul>
         </div>
         <div className="backend-skills-container single-skills-container">
@@ -34,6 +35,7 @@ function Skills() {
             <li>Git/GitHub</li>
             <li>Netlify</li>
             <li>Heroku</li>
+            <li>Vercel</li>
             <li>Slack</li>
           </ul>
         </div>
