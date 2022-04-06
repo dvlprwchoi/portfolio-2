@@ -15,6 +15,7 @@ function Skills() {
             <li>Bootstrap</li>
             <li>Material UI</li>
             <li>Next.js</li>
+            <li>Sass</li>
           </ul>
         </div>
         <div className="backend-skills-container single-skills-container">
