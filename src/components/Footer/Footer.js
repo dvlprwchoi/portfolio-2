@@ -4,8 +4,7 @@ function Footer() {
   return (
     <div className="footer">
       <p>
-        Built by <span>WOO-SIK CHOI</span> and updated on{' '}
-        <span>APRIL 2022</span>
+        Built by <span>WOO-SIK CHOI</span> and updated on <span>MAY 2022</span>
       </p>
     </div>
   );
