@@ -5,7 +5,7 @@ function Footer() {
     <div className="footer">
       <p>
         Built by <span>WOO-SIK CHOI</span> and updated on{' '}
-        <span>AUGUST 2022</span>
+        <span>SEPTEMBER 2022</span>
       </p>
     </div>
   );
